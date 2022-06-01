@@ -16,4 +16,4 @@ Twitter bot:
 
 to run this step use the next commands:
 
-python -m main.py
+python main.py
